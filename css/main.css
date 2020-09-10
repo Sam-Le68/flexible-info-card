@@ -1,0 +1,52 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+}
+
+section {
+  margin: 0;
+  background:
+}
+
+h2 {
+  display: block;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 2rem;
+  padding: 0;
+}
+
+img {
+  width: 5rem;
+}
+
+hgroup {
+  width: 16rem;
+}
+
+p {
+  width: 24rem;
+}
+
+a {
+  width: 5rem;
+  color: white;
+  background-color: #444;
+  text-decoration: none;
+  padding: .5rem 1rem .6rem;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+h3, h4 {
+  margin: 0;
+}
